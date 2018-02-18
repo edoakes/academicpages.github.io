@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ed Oakes"
 title_separator          : "-"
-name                     : &name "Ed Oakes"
+name                     : &name "Ed(ward) Oakes"
 description              : &description "personal description"
 url                      : https://edoakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
