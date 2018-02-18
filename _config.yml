@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ed Oakes"
 title_separator          : "-"
-name                     : &name "Ed(ward) Oakes"
+name                     : &name "Ed Oakes"
 description              : &description "personal description"
 url                      : https://edoakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ed Oakes"
+  name             : "Ed(ward) Oakes"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist at comScore."
+  bio              : "Data Scientist at comScore"
   location         : "Madison, WI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=F5TrQHoAAAAJ"
