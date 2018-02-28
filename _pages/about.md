@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 I currently spend my time as a data scientist at comScore Labs under Professor [Paul Barford](http://pages.cs.wisc.edu/~pb/), solving internet-scale measurement and analysis problems. 
 I graduated with a B.S. in Computer Science from the [University of Wisconsin-Madison](http://www.cs.wisc.edu/) in May 2017.
 
-Research Experience
+Research experience
 ======
 While an undergraduate, my primary research focus was on serverless computing through the [OpenLambda](https://github.com/open-lambda/open-lambda) project under Professor [Remzi Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/).
 Our focus was on tackling the problem of high startup latency in serverless environments due to package startup costs, enabling a wider class of applications to be ported to serverless.
