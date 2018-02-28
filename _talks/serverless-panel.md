@@ -4,7 +4,7 @@ collection: talks
 type: "Panel"
 permalink: /talks/serverless-panel
 venue: "First International Workshop on Serverless Computing"
-date: Spring 2017
+date: 2017-06-05
 location: "Madison, WI & Atlanta, GA"
 ---
 

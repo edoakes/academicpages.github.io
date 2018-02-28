@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/subjective-driver-goals
 venue: "Wisconsin Human‐Computer Interaction Lab & Toyota CSRC Visiting Scientist Colloquium"
-date: Fall 2016
+date: 2016-04-15
 location: "Madison, WI"
 ---
 

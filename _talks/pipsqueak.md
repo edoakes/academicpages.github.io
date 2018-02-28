@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/pipsqueak
 venue: "SCI Labs Research Meeting & First International Workshop on Serverless Computing"
-date: Spring 2017
+date: 2017-06-05
 location: "Madison, WI & Atlanta, GA"
 ---
 

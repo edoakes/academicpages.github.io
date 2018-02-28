@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/openlambda
 venue: "University of Wisconsin-Madison Advanced Systems Lab"
-date: Fall 2016
+date: 2016-11-01
 location: "Madison, WI"
 ---
 
