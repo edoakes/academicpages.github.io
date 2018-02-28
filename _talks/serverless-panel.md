@@ -8,4 +8,4 @@ date: 2017-06-05
 location: "Madison, WI & Atlanta, GA"
 ---
 
-Read the [white paper](https://edoakes.github.io/files/wosc_2017_serverless_panel.pdf).
+[Read the white paper](https://edoakes.github.io/files/wosc_2017_serverless_panel.pdf).

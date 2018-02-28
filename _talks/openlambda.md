@@ -8,4 +8,4 @@ date: 2016-11-01
 location: "Madison, WI"
 ---
 
-See the [slides](https://edoakes.github.io/files/openlambda_slides.pdf).
+[See the slides](https://edoakes.github.io/files/openlambda_slides.pdf).
