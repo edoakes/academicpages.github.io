@@ -3,7 +3,7 @@ title: "Supporting Subjective Driver Goals in Route Planning"
 collection: talks
 type: "Talk"
 permalink: /talks/subjective-driver-goals
-venue: "Wisconsin Human‐Computer Interaction Lab Research Meeting, Toyota Collaborative Research Safety Center Visiting Scientist Presentation"
+venue: "Wisconsin Human‐Computer Interaction Lab & Toyota CSRC Visiting Scientist Colloquium"
 date: Fall 2016
 location: "Madison, WI"
 ---
