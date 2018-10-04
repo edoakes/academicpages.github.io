@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I currently spend my time as a data scientist at comScore Labs under Professor [Paul Barford](http://pages.cs.wisc.edu/~pb/), solving internet-scale measurement and analysis problems. 
-I graduated with a B.S. in Computer Science from the [University of Wisconsin-Madison](http://www.cs.wisc.edu/) in May 2017.
+I am a PhD student at the University of California, Berkeley, where I am advised by Professor Scott Shenker in the [NetSys Lab](https://netsys.cs.berkeley.edu/).
+I graduated with a B.S. in Computer Science from the [University of Wisconsin-Madison](http://www.cs.wisc.edu/) in 2017.
 
 Research experience
 ======
