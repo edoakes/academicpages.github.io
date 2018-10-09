@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ed Oakes"
 title_separator          : "-"
-name                     : &name "Ed Oakes"
+name                     : &name "Edward Oakes"
 description              : &description "personal description"
 url                      : https://www.edoakes.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -45,7 +45,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : # blank (default)
 
 # SEO Related
 google_site_verification : 79OjKqQlGWc4oj8d2qoi8pNfyXNYXclq47epvz4vvHE
