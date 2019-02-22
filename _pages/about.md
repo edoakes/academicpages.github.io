@@ -13,4 +13,4 @@ I graduated with a B.S. in Computer Science from the [University of Wisconsin-Ma
 
 Prior to graduate school, I spent some time working with the core infrastructure group at Uber. During my stay, I helped make building container images easier and faster with [Makisu](https://eng.uber.com/makisu/) and deploying them feasible at the scale of thousands of microservices with [soon to be open sourced project].
 
-In my free time I like to read, travel, play tennis, and cook & eat any type of new food I can get my hands on.
+In my free time I like to read, play tennis, and eat any type of new food I can get my hands on.
